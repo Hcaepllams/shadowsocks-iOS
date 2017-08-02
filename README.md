@@ -25,3 +25,5 @@ Please visit [issue tracker](https://github.com/shadowsocks/shadowsocks-iOS/issu
 Mailing list: http://groups.google.com/group/shadowsocks
 
 Also see [troubleshooting](https://github.com/clowwindy/shadowsocks/wiki/Troubleshooting)
+
+https://www.binss.me/blog/compile-shadowsocks-ios-with-error-sodium-description/
